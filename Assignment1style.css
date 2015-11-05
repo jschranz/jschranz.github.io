@@ -1,0 +1,43 @@
+.daBottom{
+  color:red;
+}
+p{
+text-transform: capitalize;
+}
+ol{
+  color:green;
+  font-style: italic;
+  font-size: 25px;
+}
+ul{
+  font-family:Courier New, Courier New, Courier6, monospace	;
+}
+p,h1{
+  font-weight: bold;
+  color:blue;
+}
+.nested{
+  margin:5px,10%,5px,10%;
+  border:black 5px dashed;
+  padding:10px,5%,3px,10%
+}
+.nested li{
+  color:purple;
+
+}
+
+.fixed{
+  position:fixed;
+
+}
+.abs{
+  position: absolute;
+  top:400px;
+  left:100px;
+
+}
+.rel{
+  position: relative;
+  left:150px;
+  top:394;
+}
