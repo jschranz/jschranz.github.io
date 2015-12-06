@@ -10,10 +10,28 @@
 </head>
 
 <body>
-<p id="para">Things</p>
-<button type = "button" onclick="ChangeText()">Click</button>
 
-<textarea id = "text" rows="5" cols="5">
+
+<label for ="input1">Enter Number</label></br>
+	<input type="text" name="inputone" id="inputone" value="" /><br />
+
+	<label for ="input2">Enter Number</label></br>
+		<input type="text" name="inputtwo" id="inputtwo" value="" /><br />
+
+<p id="answer">Anwser Appears Here</p>
+
+		<label for="Addition">Addition</label>
+		<input type="radio" name="button" id="addition" />
+		<label for="Subtraction">Subtraction</label>
+		<input type="radio" name="button" id="Subtraction" /><br />
+		<label for="Multiplication">Multiplication</label>
+		<input type="radio" name="button" id="Multiplication" />
+		<label for="Division">Division</label>
+		<input type="radio" name="button" id="Division" /><br />
+
+<button type = "button" onclick="ShowAnswer()">Click</button>
+
+
 
 </textarea>
 
