@@ -1,0 +1,156 @@
+body{
+	color:black;
+	background-color:#12141C ;
+
+}
+#Edging{
+	width:1000px;
+	margin:0 auto;
+	background-color:#216196;
+
+}
+#Header{
+	height:50px;
+	text-align: center;
+	background-color: #216196;
+	color:#E89626;
+}
+#Navigation{
+	float:left;
+	width: 100px;
+	height: auto;
+	background-color: #216196;
+	text-align: center;
+	padding:5px;
+	color:#E89626;
+	position: fixed;
+
+}
+#Content{
+	float:right;
+	width:880px;
+	height:700px;
+	background-color: #6C7B8B;
+	padding:5px;
+}
+#Footer{
+	background-color: #011D34;
+	height:60px;
+	clear:both;
+	color:#E89626;
+	text-align: center;
+}
+a{
+	color:red;
+}
+#Edging2{
+	width:1000px;
+	margin:0 auto;
+	background-color:#000000;
+
+}
+#Header2{
+	height:50px;
+	text-align: center;
+	background-color: #000000;
+	color:#E89626;
+}
+#Navigation2{
+	float:left;
+	width: 100px;
+	height: auto;
+	background-color: #000000;
+	text-align: center;
+	padding:5px;
+	position: fixed;
+	color:#E89626;
+}
+#Content2{
+	float:right;
+	width:880px;
+	height:500px;
+	background-color: #0B141B;
+	padding:5px;
+	color:#E89626;
+
+}
+#Footer2{
+	background-color: #A9A9A9;
+	height:60px;
+	clear:both;
+	color:black;
+	text-align: center;
+}
+#countdown{
+	display: inline-block;
+	color: black;
+	text-align: center;
+	margin: auto;
+	width: 100%;
+
+}
+#countdownblocks{
+	display: inline-block;
+	padding: 50px;
+	border: 10px;
+	background-color: #1A9E69;
+	color: #E86026;
+	text-align: center;
+	font-size: 20px;
+}
+#examcountdown{
+	display: inline-block;
+	color: black;
+	text-align: center;
+	margin: auto;
+	width: 100%;
+
+}
+#examcountdownblocks{
+	display: inline-block;
+	padding: 50px;
+	border: 10px;
+	background-color: #1A9E69;
+	color: #E86026;
+	text-align: center;
+	font-size: 20px;
+}
+#interests{
+	text-decoration: underline;
+	text-align: center;
+}
+#travel{
+	font-size: 20px;
+	float: left;
+	padding-bottom: 21px;
+}
+#hockey{
+	font-size: 20px;
+	float: right;
+	display: inline-block;
+	padding-bottom: 21px;
+}
+#Content3{
+	float:right;
+	width:880px;
+	height:550px;
+	background-color: #6C7B8B;
+	padding:5px;
+}
+#poker{
+	font-size: 20px;
+	float: left;
+}
+#food{
+	font-size: 20px;
+	float: right;
+	display: inline-block;
+}
+#teaminfo{
+	text-align: left;
+}
+#logo{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
